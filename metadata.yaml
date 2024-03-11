@@ -1,0 +1,33 @@
+_repo: In-Korea-with-Marquis-Ito_73071
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ladd, George Trumbull
+    aliases:
+    - Ladd, G. T. (George Trumbull)
+    - Ladd, George Trumball
+    birthdate: 1842
+    deathdate: 1921
+    gutenberg_agent_id: '56612'
+    url: http://www.gutenberg.org/2009/agents/56612
+    wikipedia: https://en.wikipedia.org/wiki/George_Trumbull_Ladd
+description: ''
+gutenberg_issued: '2024-02-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73071'
+language: en
+pgterms:marc904: https://archive.org/details/inkoreawithmarqu00ladd_0
+pgterms:marc905: 20211115125518ladd
+pgterms:marc906: '1908'
+pgterms:marc907: us
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bCharles Scribner''s Sons, $c1908.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: In Korea with Marquis Ito
+url: http://www.gutenberg.org/ebooks/73071
